@@ -1,1 +1,3 @@
-This is Practice text. 
+New text file to check if new commit can be
+done succesively. One commit is pushed and
+new is about to be pushed.

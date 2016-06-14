@@ -1,1 +1,2 @@
- "This is a test repository for the Git/GitHub HATS @ LPC (2016)." 
+This is a readmefile for test exercise
+LPC HAT 2016@FNAL
